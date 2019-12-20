@@ -46,4 +46,7 @@ Temporarily private Figshare, DOI and reference:
 - URL: https://figshare.com/s/c03d6b8b0df781b864ff
 - DOI: 10.6084/m9.figshare.6109139 (Inactive until resource is made public)
 - Reference to cite:
-	-  [1]Tarek AWWAD.. 2018. CrowdED : Crowdsourcing Evaluation Dataset. DOI:https://doi.org/10.6084/m9.figshare.6109139
+	- [1] Tarek Awwad, Nadia Bennani, Veronika Rehn-Sonigo, Lionel Brunie and Harald Kosch CrowdED and CREX : Towards 		Easy Crowdsourcing Quality Control Evaluation ADBIS 2019, Bled - Slovenia
+
+	- [2] Tarek AWWAD. 2018. CrowdED : Crowdsourcing Evaluation Dataset. 
+	DOI:https://doi.org/10.6084/m9.figshare.6109139
